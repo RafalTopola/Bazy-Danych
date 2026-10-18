@@ -1,0 +1,6 @@
+"id","klient_id","pracownik_id","data_zamowienia","status"
+102,3,7,"2025-10-18","wyslane"
+7,163,19,"2025-10-19","zrealizowane"
+867,77,12,"2025-10-19","wyslane"
+481,182,17,"2025-10-20","zrealizowane"
+531,145,19,"2025-10-20","anulowane"
